@@ -1,1 +1,5 @@
 https://jmeter-plugins.org/install/Install/
+
+Download "Plugins-manager.jar"
+
+Put downloaded .jar into JMETER_INSTALLED_DIRECTORY/lib/ext directory
